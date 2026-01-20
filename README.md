@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minusk330)](https://solved.ac/minsuk330/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minsuk33011@gmail.com)](https://solved.ac/minsuk33011@gmail.com/)
 
 
 <!--
